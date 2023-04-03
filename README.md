@@ -2,18 +2,26 @@
 
 Single player game app that displays scrambled words. To play the game, player has to make a
 word using all the letters in the displayed scrambled word.
+
 This code demonstrates the Android Architecture components ViewModel and StateFlow.
 
-tk
+This app is developed as part of the [Android Basics with Compose] course from Google, see [Unit 4] [Pathway 1] and the [ViewModel and State in Compose] Codelab.
+
+(it basically is the 'composed' cousin of the Unscramble app from Google's Android Basics with Kotlin Course)
+
+[Android Basics with Compose]:https://developer.android.com/courses/android-basics-compose/course
+[Unit 4]:https://developer.android.com/courses/android-basics-compose/unit-4
+[Pathway 1]:https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1
+[ViewModel and State in Compose]:https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state
 
 ----
 
 Environment
 
-- Kotlin 1.7.20
-- Android Studio Dolphin 2021.3.1
-- Gradle Plugin 7.3.1
-- Compose 1.3.1
+- Kotlin 1.8.0
+- Android Studio Electric Eel 2022.1.1
+- Gradle Plugin 7.4.2
+- Compose BOM 2023.01.00
 
 ----
 
@@ -21,5 +29,5 @@ Environment
 language: kotlin
 repo: unscramble_composed
 status: archived
-updated: 2022-12-03
+updated: 2023-04-03
 ```
