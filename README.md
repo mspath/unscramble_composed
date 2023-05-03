@@ -18,10 +18,10 @@ This app is developed as part of the [Android Basics with Compose] course from G
 
 Environment
 
-- Kotlin 1.8.0
-- Android Studio Electric Eel 2022.1.1
-- Gradle Plugin 7.4.2
-- Compose BOM 2023.01.00
+- Kotlin 1.8.20
+- Android Studio Flamingo 2022.2.1
+- Gradle Plugin 8.0.0
+- Compose BOM 2023.04.01
 
 ----
 
@@ -29,5 +29,5 @@ Environment
 language: kotlin
 repo: unscramble_composed
 status: archived
-updated: 2023-04-03
+updated: 2023-05-03
 ```
